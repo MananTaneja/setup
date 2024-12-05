@@ -1,0 +1,150 @@
+{
+	"workbench.colorCustomizations": {},
+	"git.autofetch": true,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	// "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+	"editor.fontFamily": "'JetBrains Mono', 'CaskaydiaCove Nerd Font Mono', 'Cascadia Code', sans-serif",
+	"editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+	"prettier.useTabs": true,
+	"prettier.jsxSingleQuote": true,
+	"javascript.preferences.quoteStyle": "single",
+	"typescript.preferences.quoteStyle": "single",
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"python.pythonPath": "/bin/python3",
+	"window.menuBarVisibility": "toggle",
+	"window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}",
+	"window.doubleClickIconToClose": true,
+	"prettier.singleQuote": true,
+	"liveServer.settings.CustomBrowser": "firefox",
+	"liveServer.settings.showOnStatusbar": false,
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"settingsSync.ignoredExtensions": [
+		"dotjoshjohnson.xml"
+	],
+	"editor.formatOnSave": true,
+	"files.autoSave": "off",
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"prettier.tabWidth": 4,
+	"editor.quickSuggestions": {
+		"other": true,
+		"comments": false,
+		"strings": true
+	},
+	"editor.smoothScrolling": true,
+	"emmet.showSuggestionsAsSnippets": true,
+	"code-runner.enableAppInsights": false,
+	"python.languageServer": "Default",
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "compressed",
+			"savePath": "/css"
+		}
+	],
+	"liveSassCompile.settings.generateMap": false,
+	"python.autoComplete.addBrackets": true,
+	"editor.wordWrap": "on",
+	"files.exclude": {
+		"**/.classpath": true,
+		"**/.project": true,
+		"**/.settings": true,
+		"**/.factorypath": true
+	},
+	"javascript.format.semicolons": "remove",
+	"prettier.semi": false,
+	"workbench.productIconTheme": "fluent-icons",
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"clang-format.language.cpp.fallbackStyle": "{BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}",
+	"npm.packageManager": "pnpm",
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"[typescript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"workbench.startupEditor": "none",
+	"prettier.printWidth": 100,
+	"python.analysis.completeFunctionParens": true,
+	"workbench.iconTheme": "material-icon-theme",
+	"security.workspace.trust.untrustedFiles": "open",
+	"telemetry.telemetryLevel": "off",
+	"githubPullRequests.fileListLayout": "tree",
+	"editor.minimap.enabled": false,
+	"editor.cursorSmoothCaretAnimation": "on",
+	"githubPullRequests.createOnPublishBranch": "never",
+	"editor.cursorBlinking": "smooth",
+	"terminal.integrated.fontFamily": "'JetBrains Mono', \"CaskaydiaCove Nerd Font Mono\",\"FiraMono Nerd Font\", \"Cascadia Mono\", monospace",
+	"terminal.integrated.cursorBlinking": true,
+	"aws.codeWhisperer.shareCodeWhispererContentWithAWS": false,
+	"editor.stickyScroll.enabled": true,
+	"prettier.singleAttributePerLine": true,
+	"githubPullRequests.pullBranch": "never",
+	"liveServer.settings.donotVerifyTags": true,
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"workbench.colorTheme": "Atom Just Black",
+	"editor.cursorStyle": "block",
+	"[go]": {
+		"editor.defaultFormatter": "golang.go"
+	},
+	"zenMode.hideLineNumbers": false,
+	"[jsonc]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"scm.inputFontFamily": "editor",
+	"workbench.fontAliasing": "auto",
+	"debug.console.fontFamily": "\"JetBrains Mono\"",
+	"leetcode.workspaceFolder": "/Users/manan/Developer/JS Questions Practise/LC",
+	"leetcode.defaultLanguage": "javascript",
+	"markdown.preview.fontFamily": "\"JetBrains Mono\",  -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif",
+	"markdown.preview.lineHeight": 1.5,
+	"[go.mod]": {
+		"editor.defaultFormatter": "golang.go"
+	},
+	"leetcode.hint.configWebviewMarkdown": false,
+	"leetcode.editor.shortcuts": [
+		"submit",
+		"test",
+		"solution"
+	],
+	"editor.fontVariations": true,
+	"editor.codeLensFontSize": 12,
+	"scm.inputFontSize": 12,
+	"workbench.sideBar.location": "right",
+	"window.zoomLevel": 1,
+	"editor.suggestSelection": "recentlyUsedByPrefix",
+	"gitlens.telemetry.enabled": false,
+	"accessibility.signals.terminalBell": {
+		"sound": "on"
+	},
+	"terminal.integrated.enableVisualBell": true,
+	"workbench.activityBar.location": "top",
+	"leetcode.hint.commentDescription": false,
+	"leetcode.hint.commandShortcut": false,
+	"[css]": {
+		"editor.defaultFormatter": "vscode.css-language-features"
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"gitlens.views.scm.grouped.views": {
+		"commits": false,
+		"branches": false,
+		"remotes": false,
+		"stashes": false,
+		"tags": false,
+		"worktrees": false,
+		"contributors": false,
+		"repositories": false,
+		"searchAndCompare": false,
+		"launchpad": false
+	},
+}

@@ -19,3 +19,17 @@ cat brewList/casks.txt | xargs brew install --casks
 brew list -1 --casks > brewList/casks.txt
 brew list --formulae -1 --installed-on-request > brewList/formulae.txt
 ```
+
+# VS Code
+
+## Listing Extensions
+
+```bash
+code --list-extensions > vscode/extensions.txt
+```
+
+## Copying Settings
+
+```bash
+cp /Users/manan/Library/Application\ Support/Code/User/settings.json ./vscode
+```
