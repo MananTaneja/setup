@@ -1,0 +1,7 @@
+fnm
+fzf
+go
+node
+pnpm
+spaceship
+zsh
