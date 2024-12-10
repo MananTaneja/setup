@@ -33,3 +33,17 @@ code --list-extensions > vscode/extensions.txt
 ```bash
 cp /Users/manan/Library/Application\ Support/Code/User/settings.json ./vscode
 ```
+
+# Terminal Settings
+
+## ZSH
+
+```bash
+cp ~/.zshrc ./configs
+```
+
+## WezTerm
+
+```bash
+cp ~/.wezterm.lua ./configs
+```
