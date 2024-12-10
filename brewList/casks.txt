@@ -1,4 +1,3 @@
-bruno
 calibre
 cloudflare-warp
 docker
@@ -15,4 +14,5 @@ rectangle
 ticktick
 visual-studio-code
 vlc
+wezterm
 zoom

@@ -24,4 +24,5 @@ visualstudioexptteam.vscodeintellicode
 visualstudioexptteam.vscodeintellicode-completions
 vscodevim.vim
 wix.vscode-import-cost
+yinfei.luahelper
 yoavbls.pretty-ts-errors

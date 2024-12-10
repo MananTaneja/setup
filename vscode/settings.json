@@ -147,4 +147,11 @@
 		"searchAndCompare": false,
 		"launchpad": false
 	},
+	"[lua]": {
+		"editor.defaultFormatter": "yinfei.luahelper"
+	},
+	"diffEditor.ignoreTrimWhitespace": false,
+	"window.density.editorTabHeight": "compact",
+	"window.dialogStyle": "custom",
+	"workbench.layoutControl.enabled": false
 }
