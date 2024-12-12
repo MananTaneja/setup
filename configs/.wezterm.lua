@@ -20,18 +20,53 @@ config.tab_bar_at_bottom = true
 config.window_decorations = "RESIZE"
 
 -- Key Bindings - Natural Text Editing
-config.keys = {
-	{ mods = "OPT", key = "LeftArrow", action = action.SendKey({ mods = "ALT", key = "b" }) },
-	{ mods = "OPT", key = "RightArrow", action = action.SendKey({ mods = "ALT", key = "f" }) },
-	{ mods = "CMD", key = "LeftArrow", action = action.SendKey({ mods = "CTRL", key = "a" }) },
-	{ mods = "CMD", key = "RightArrow", action = action.SendKey({ mods = "CTRL", key = "e" }) },
-	{ mods = "CMD", key = "Backspace", action = action.SendKey({ mods = "CTRL", key = "u" }) },
-}
+config.keys = {{
+    mods = "OPT",
+    key = "LeftArrow",
+    action = action.SendKey({
+        mods = "ALT",
+        key = "b"
+    })
+}, {
+    mods = "OPT",
+    key = "RightArrow",
+    action = action.SendKey({
+        mods = "ALT",
+        key = "f"
+    })
+}, {
+    mods = "CMD",
+    key = "LeftArrow",
+    action = action.SendKey({
+        mods = "CTRL",
+        key = "a"
+    })
+}, {
+    mods = "CMD",
+    key = "RightArrow",
+    action = action.SendKey({
+        mods = "CTRL",
+        key = "e"
+    })
+}, {
+    mods = "CMD",
+    key = "Backspace",
+    action = action.SendKey({
+        mods = "CTRL",
+        key = "u"
+    })
+}, {
+    mods = "CMD",
+    key = "k",
+    action = action.ClearScrollback 'ScrollbackAndViewport'
+}}
 
 -- Key Bindings - Custom shortcuts
-config.keys = {
-	{ mods = "CTRL", key = "d", action = action.SendString 'cd "$(find ~/Developer -type d -maxdepth 1 | fzf)"\r'}
-}
+config.keys = {{
+    mods = "CTRL",
+    key = "d",
+    action = action.SendString 'cd "$(find ~/Developer -type d -maxdepth 1 | fzf)"\r'
+}}
 
 config.audible_bell = 'Disabled'
 
