@@ -28,6 +28,12 @@ brew list --formulae -1 --installed-on-request > brewList/formulae.txt
 code --list-extensions > vscode/extensions.txt
 ```
 
+## Installing extensions
+
+```bash
+xargs -n 1 code --install-extension < vscode/extensions.txt
+```
+
 ## Copying Settings
 
 ```bash
