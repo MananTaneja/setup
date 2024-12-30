@@ -57,5 +57,8 @@ cp ~/.wezterm.lua ./configs
 # Fonts
 
 1. Monolisa - fonts folder
+   1.1 For VS Code and Terminal
 2. Cascadia Code - brew
+   2.1 For VS Code and Terminal
 3. Nunito - brew
+   3.1 For Obsidian
