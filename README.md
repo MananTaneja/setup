@@ -53,3 +53,9 @@ cp ~/.zshrc ./configs
 ```bash
 cp ~/.wezterm.lua ./configs
 ```
+
+# Fonts
+
+1. Monolisa - fonts folder
+2. Cascadia Code - brew
+3. Nunito - brew
