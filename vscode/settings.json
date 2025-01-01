@@ -3,7 +3,7 @@
 	"git.autofetch": true,
 	"javascript.updateImportsOnFileMove.enabled": "always",
 	// "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
-	"editor.fontFamily": "'JetBrains Mono', 'CaskaydiaCove Nerd Font Mono', 'Cascadia Code', sans-serif",
+	"editor.fontFamily": "'MonoLisa', 'Cascadia Code'",
 	"editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
 	"prettier.useTabs": true,
 	"prettier.jsxSingleQuote": true,
@@ -93,7 +93,6 @@
 		"editor.defaultFormatter": "vscode.typescript-language-features"
 	},
 	"workbench.colorTheme": "Atom Just Black",
-	"editor.cursorStyle": "block",
 	"[go]": {
 		"editor.defaultFormatter": "golang.go"
 	},
@@ -106,8 +105,6 @@
 	"debug.console.fontFamily": "\"JetBrains Mono\"",
 	"leetcode.workspaceFolder": "/Users/manan/Developer/JS Questions Practise/LC",
 	"leetcode.defaultLanguage": "javascript",
-	"markdown.preview.fontFamily": "\"JetBrains Mono\",  -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif",
-	"markdown.preview.lineHeight": 1.5,
 	"[go.mod]": {
 		"editor.defaultFormatter": "golang.go"
 	},
@@ -153,5 +150,12 @@
 	"diffEditor.ignoreTrimWhitespace": false,
 	"window.density.editorTabHeight": "compact",
 	"window.dialogStyle": "custom",
-	"workbench.layoutControl.enabled": false
+	"workbench.layoutControl.enabled": false,
+	"window.commandCenter": false,
+	"vim.smartRelativeLine": true,
+	"editor.lineNumbers": "relative",
+	"markdown.preview.fontSize": 12,
+	"markdown.preview.fontFamily": "'Nunito', -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif",
+	"terminal.external.osxExec": "wezTerm.app",
+	"terminal.integrated.hideOnStartup": "whenEmpty",
 }
