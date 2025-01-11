@@ -1,7 +1,9 @@
 fnm
 fzf
 go
+lazygit
 node
 pnpm
 spaceship
+tldr
 zsh

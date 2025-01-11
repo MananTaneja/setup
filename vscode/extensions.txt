@@ -8,6 +8,8 @@ eamodio.gitlens
 esbenp.prettier-vscode
 firsttris.vscode-jest-runner
 formulahendry.code-runner
+github.copilot
+github.copilot-chat
 github.github-vscode-theme
 github.vscode-pull-request-github
 golang.go

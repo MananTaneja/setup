@@ -106,6 +106,10 @@ source $ZSH/oh-my-zsh.sh
 # Homebrew Path
 export PATH=/usr/local/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/bin:/opt/homebrew/bin
 
+# Go
+export GOPATH="$HOME/go"
+export PATH=$PATH:$GOPATH/bin
+
 # Spaceship prompt
 source "/opt/homebrew/opt/spaceship/spaceship.zsh"
 eval "$(fnm env --use-on-cd)"

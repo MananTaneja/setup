@@ -6,8 +6,8 @@ font-cascadia-code
 font-cascadia-mono
 font-caskaydia-cove-nerd-font
 font-fira-mono-nerd-font
+font-nunito
 google-chrome
-iterm2
 notion-calendar
 obsidian
 rectangle

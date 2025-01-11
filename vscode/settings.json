@@ -92,7 +92,7 @@
 	"[javascriptreact]": {
 		"editor.defaultFormatter": "vscode.typescript-language-features"
 	},
-	"workbench.colorTheme": "Atom Just Black",
+	"workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
 	"[go]": {
 		"editor.defaultFormatter": "golang.go"
 	},

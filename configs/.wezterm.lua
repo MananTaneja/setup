@@ -8,7 +8,7 @@ config.color_scheme = 'Builtin Tango Dark'
 config.max_fps = 120
 
 -- Font
-config.font = wezterm.font("CaskaydiaCove Nerd Font Mono")
+config.font = wezterm.font("MonoLisa")
 config.font_size = 15
 
 -- Tab Bar
