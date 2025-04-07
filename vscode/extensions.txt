@@ -1,9 +1,9 @@
+a-h.templ
 aaron-bond.better-comments
 astro-build.astro-vscode
 bradlc.vscode-tailwindcss
 burkeholland.simple-react-snippets
 dbaeumer.vscode-eslint
-dereckdamphouse.atom-just-black
 eamodio.gitlens
 esbenp.prettier-vscode
 firsttris.vscode-jest-runner
@@ -13,8 +13,10 @@ github.copilot-chat
 github.github-vscode-theme
 github.vscode-pull-request-github
 golang.go
+google.geminicodeassist
 gruntfuggly.todo-tree
 leetcode.vscode-leetcode
+maosantaella.night-wolf
 miguelsolorio.fluent-icons
 ms-azuretools.vscode-docker
 ms-vscode-remote.remote-containers

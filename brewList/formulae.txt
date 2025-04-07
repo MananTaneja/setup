@@ -1,9 +1,12 @@
+cmatrix
 fnm
 fzf
 go
 lazygit
+neovim
 node
 pnpm
+skhd
 spaceship
 tldr
 zsh

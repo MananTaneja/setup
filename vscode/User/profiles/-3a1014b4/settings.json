@@ -3,7 +3,7 @@
 	"git.autofetch": true,
 	"javascript.updateImportsOnFileMove.enabled": "always",
 	// "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
-	"editor.fontFamily": "'JetBrains Mono', 'MonoLisa', 'Cascadia Code'",
+	"editor.fontFamily": "'MonoLisa', 'Cascadia Code'",
 	"editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
 	"prettier.useTabs": true,
 	"prettier.jsxSingleQuote": true,
@@ -180,9 +180,6 @@
 	"zenMode.fullScreen": false,
 	"zenMode.showTabs": "none",
 	"zenMode.centerLayout": false,
-	"[snippets]": {
-		"editor.defaultFormatter": "vscode.json-language-features"
-	},
-	"chat.agent.enabled": true,
-	"terminal.integrated.fontLigatures.enabled": true,
+	"git.openRepositoryInParentFolders": "never",
+	"extensions.ignoreRecommendations": true,
 }
